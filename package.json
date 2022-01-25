@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dat Nguyen3",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0.22"
 	},
 	"main": "server.js",
 	"scripts": {
