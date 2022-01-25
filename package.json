@@ -5,7 +5,7 @@
 	"field22": "field22",
 	"field23": "field22",
 	"field232": "field2",
-	"field2322": "field2",
+	"field2322": "field22",
 	"author": "Dat Nguyen33",
 	"dependencies": {
 		"express": "^4.14.0.22"
