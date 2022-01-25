@@ -4,6 +4,7 @@
 	"field1": "field1",
 	"field2": "field2",
 	"field23": "field2",
+	"field232": "field2",
 	"author": "Dat Nguyen3",
 	"dependencies": {
 		"express": "^4.14.0.22"
